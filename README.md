@@ -1,6 +1,6 @@
 # re-simple-python-project
 
-This simple project structure template repository is adapted from the [Good Enough Project](https://github.com/bvreede/good-enough-project) Cookiecutter template by Barbara Vreede (2019).
+This project will model and simulate the effect of different biosecurity measure to within farm dynamics in livestock (i.e., poultry, swine). EMULSION will be used to model and simulate the dynamic in a poultry farm, while Netlogo will be used for a swine farm. Movement data of farmer will be used as an input in the model and other several parameters related to biosecurity. Data from farm experiments will also be used to estimate the said parameters.
 
 ## Usage
 
